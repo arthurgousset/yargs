@@ -1,4 +1,7 @@
-# yargs
+# yargs (Cheat Sheet)
+
+> [!NOTE]
+> This is a cheat sheet for the [`yargs`](https://www.npmjs.com/package/yargs) NPM package (mostly notes-to-self). They are incomplete by default.
 
 NPM package to make simple CLIs based on TypeScript files and interactive arguments.
 
